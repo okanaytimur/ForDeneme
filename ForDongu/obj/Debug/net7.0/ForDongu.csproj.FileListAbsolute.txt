@@ -1,0 +1,14 @@
+c:\Users\Emine\ForDeneme\ForDongu\bin\Debug\net7.0\ForDongu.exe
+c:\Users\Emine\ForDeneme\ForDongu\bin\Debug\net7.0\ForDongu.deps.json
+c:\Users\Emine\ForDeneme\ForDongu\bin\Debug\net7.0\ForDongu.runtimeconfig.json
+c:\Users\Emine\ForDeneme\ForDongu\bin\Debug\net7.0\ForDongu.dll
+c:\Users\Emine\ForDeneme\ForDongu\bin\Debug\net7.0\ForDongu.pdb
+c:\Users\Emine\ForDeneme\ForDongu\obj\Debug\net7.0\ForDongu.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Emine\ForDeneme\ForDongu\obj\Debug\net7.0\ForDongu.AssemblyInfoInputs.cache
+c:\Users\Emine\ForDeneme\ForDongu\obj\Debug\net7.0\ForDongu.AssemblyInfo.cs
+c:\Users\Emine\ForDeneme\ForDongu\obj\Debug\net7.0\ForDongu.csproj.CoreCompileInputs.cache
+c:\Users\Emine\ForDeneme\ForDongu\obj\Debug\net7.0\ForDongu.dll
+c:\Users\Emine\ForDeneme\ForDongu\obj\Debug\net7.0\refint\ForDongu.dll
+c:\Users\Emine\ForDeneme\ForDongu\obj\Debug\net7.0\ForDongu.pdb
+c:\Users\Emine\ForDeneme\ForDongu\obj\Debug\net7.0\ForDongu.genruntimeconfig.cache
+c:\Users\Emine\ForDeneme\ForDongu\obj\Debug\net7.0\ref\ForDongu.dll
